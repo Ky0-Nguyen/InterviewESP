@@ -2,11 +2,11 @@
 
 An Application for interview at ESP Media company
 
-<img src="https://github.com/ESPxMedia/reactnative-interview/blob/Tuan-app/ImageApplication/1.png" width="200" height="400"/>
-<img src="https://github.com/ESPxMedia/reactnative-interview/blob/Tuan-app/ImageApplication/2.png" width="200" height="400"/>
-<img src="https://github.com/ESPxMedia/reactnative-interview/blob/Tuan-app/ImageApplication/3.png" width="200" height="400"/>
-<img src="https://github.com/ESPxMedia/reactnative-interview/blob/Tuan-app/ImageApplication/4.png" width="200" height="400"/>
-<img src="https://github.com/ESPxMedia/reactnative-interview/blob/Tuan-app/ImageApplication/5.png" width="200" height="400"/>
+<img src="https://github.com/thienthanmeo/InterviewESP/blob/master/ImageApplication/1.png" width="200" height="400"/>
+<img src="https://github.com/thienthanmeo/InterviewESP/blob/master/ImageApplication/2.png" width="200" height="400"/>
+<img src="https://github.com/thienthanmeo/InterviewESP/blob/master/ImageApplication/3.png" width="200" height="400"/>
+<img src="https://github.com/thienthanmeo/InterviewESP/blob/master/ImageApplication/4.png" width="200" height="400"/>
+<img src="https://github.com/thienthanmeo/InterviewESP/blob/master/ImageApplication/5.png" width="200" height="400"/>
 
 ## Enviroment
 
