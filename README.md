@@ -81,4 +81,11 @@ Simply run the following in a terminal:
 $ cd android
 $ ./gradlew assembleRelease
 ```
+
+```
+Note: Make sure gradle.properties does not include org.gradle.configureondemand=true as that will make the release build skip bundling JS and assets into the APK.
+```
+
 Gradle's assembleRelease will bundle all the JavaScript needed to run your app into the APK. If you need to change the way the JavaScript bundle and/or drawable resources are bundled (e.g. if you changed the default file/folder names or the general structure of the project), have a look at android/app/build.gradle to see how you can update it to reflect these changes.
+
+The generated APK can be found under android/app/build/outputs/apk/release/app-release.apk, and is ready to be distributed.
